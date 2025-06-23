@@ -1,0 +1,31 @@
+Purchase_Year,Original_Price,Furniture_Type,Material,Quality,Color,Condition_Years,Target_Year,Predicted_Price
+2022,₹41366,Wardrobe,Engineered Wood,Medium,White,4,2026,₹21593
+2021,₹18524,Bed,Plywood,Low,Brown,4,2025,₹7587
+2022,₹23839,Wardrobe,Teak Wood,Medium,Grey,4,2026,₹12444
+2020,₹25236,Wardrobe,Plywood,Low,Teak,6,2026,₹6615
+2020,₹26474,Sofa,Wood,Low,White,5,2025,₹8675
+2022,₹39739,Sofa,MDF,High,Brown,3,2025,₹28969
+2020,₹20928,Bed,Teak Wood,Low,Black,6,2026,₹5486
+2022,₹31312,Wardrobe,MDF,High,Brown,3,2025,₹22826
+2020,₹34334,Wardrobe,Plywood,Medium,Brown,6,2026,₹12949
+2021,₹46500,Bed,Engineered Wood,Low,Beige,5,2026,₹15237
+2020,₹25101,Sofa,Wood,High,Grey,6,2026,₹13339
+2021,₹58745,Bed,Teak Wood,High,Brown,4,2025,₹38542
+2020,₹26092,Bed,Plywood,High,White,6,2026,₹13866
+2022,₹35970,Bed,Teak Wood,Medium,Teak,3,2025,₹22090
+2020,₹37116,Wardrobe,Teak Wood,Low,Grey,6,2026,₹9729
+2021,₹15531,Wardrobe,MDF,Medium,Grey,5,2026,₹6891
+2021,₹20455,Sofa,Teak Wood,High,Brown,5,2026,₹12078
+2020,₹34135,Bed,Engineered Wood,Low,Black,6,2026,₹8948
+2020,₹55403,Sofa,Wood,High,Teak,5,2025,₹32714
+2020,₹35553,Sofa,Engineered Wood,Medium,Black,6,2026,₹13408
+2021,₹28925,Bed,Engineered Wood,Medium,Beige,4,2025,₹15099
+2022,₹22988,Bed,MDF,Medium,Brown,3,2025,₹14117
+2020,₹56542,Sofa,MDF,High,Teak,6,2026,₹30048
+2020,₹59987,Sofa,Plywood,High,White,5,2025,₹35421
+2021,₹43073,Wardrobe,Teak Wood,Low,Beige,4,2025,₹17642
+2022,₹25342,Wardrobe,MDF,Medium,Beige,4,2026,₹13228
+2021,₹40893,Sofa,Engineered Wood,High,Brown,4,2025,₹26829
+2021,₹24530,Bed,Plywood,High,Brown,5,2026,₹14484
+2020,₹59516,Bed,MDF,Medium,Brown,6,2026,₹22446
+2020,₹32800,Sofa,MDF,Low,Black,6,2026,₹8598
