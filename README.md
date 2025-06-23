@@ -39,4 +39,4 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 Deployed on Streamlit Cloud:  
-🔗 [Click here to open app]([https://viralchauhan-furniture-price-predictor.streamlit.app](https://furniture-price-predictor-bnrkjkgwmbwuvc9w5kbzo3.streamlit.app/))
+🔗 [Click here to open app](https://furniture-price-predictor-bnrkjkgwmbwuvc9w5kbzo3.streamlit.app/)
